@@ -6,10 +6,6 @@ Generates summaries for concise browser extension
 
 FAST api with NLP from nltk, pytorch and huggingface using uvicorn as server
 
-## Installation
-
-concise.crx - in dist folder
-
 ### Run it yourself
 
 1.`source venv/bin/activate`
