@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  margin: 10px 20px 20px 20px;
+}
+
+.App-logo {
+  height: 80px;
+  pointer-events: none;
+}
+
+.app-header-text {
+  color: #3171ea;
+  margin: 10px;
+  display: flex;
+  align-items: top;
+  flex-direction: column;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+}
+
+p {
+  color: #ffffffd9;
+}
+
+button {
+  text-decoration: none;
+  padding: 10px;
+  margin: 5px;
+  border: deeppink;
+  border-radius: 50px;
+  background-color: #bf73de;
+  color: #000000de;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #9542a5;
+  padding: 15px;
+  margin: 0px;
+  font-weight: 800;
+  color: #000000;
+}
